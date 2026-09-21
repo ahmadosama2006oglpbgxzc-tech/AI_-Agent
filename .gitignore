@@ -1,0 +1,12 @@
+# منع رفع ملفات الحماية والمفاتيح السرية
+google_creds.json
+.env
+
+# منع رفع ملفات بيئة العمل والملفات المؤقتة لـ Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+ENV/
